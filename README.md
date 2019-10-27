@@ -17,4 +17,32 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Commands
 
+create hello_world project
 
+```
+flutter create hello_world
+```
+
+list connected devices ex. phone, browser
+
+```
+flutter devices
+```
+
+run in devices
+
+```
+flutter run -d <deviceId>
+```
+
+list emulators
+
+```
+flutter emulators
+```
+
+launch in emulator
+
+```
+flutter emulators --launch Nexus_6P_API_28
+```
