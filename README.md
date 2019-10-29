@@ -52,3 +52,9 @@ build web - https://flutter.dev/docs/get-started/web
 ```
 flutter build web
 ```
+
+get packages - https://flutter.dev/docs/development/packages-and-plugins/using-packages
+
+```
+flutter pub get
+```
