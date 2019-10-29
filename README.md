@@ -16,7 +16,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## Commands
-
+Font : Fira Code
 create hello_world project
 
 ```
@@ -45,4 +45,10 @@ launch in emulator
 
 ```
 flutter emulators --launch Nexus_6P_API_28
+```
+
+build web - https://flutter.dev/docs/get-started/web
+
+```
+flutter build web
 ```
