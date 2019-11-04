@@ -58,3 +58,9 @@ get packages - https://flutter.dev/docs/development/packages-and-plugins/using-p
 ```
 flutter pub get
 ```
+
+To add web support to a project
+
+```
+flutter create .
+```
